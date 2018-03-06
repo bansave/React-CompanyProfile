@@ -1,0 +1,10 @@
+.NavigationScript{
+    position: relative;
+}
+.logo{
+    width: 200px;
+}
+.navibody{
+    background: black;
+    color: white;
+}
